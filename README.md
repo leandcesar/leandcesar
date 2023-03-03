@@ -1,14 +1,16 @@
 # Oi 👋, meu nome é Leandro César
 
-🎓 Tenho 25 anos, sou formado em Engenharia de Controle e Automação pela [UNIFEI](https://unifei.edu.br/).
+Engenheiro de controle e automação ([UNIFEI](https://unifei.edu.br/)). TechDesenvolvedor backend Python na [Cloudia](https://app.cloudiabot.com/).
 
-💼 Atualmente, sou Python [DevOps](https://aws.amazon.com/pt/devops/what-is-devops/) na [Cloudia](https://app.cloudiabot.com/).
+Projects:
 
-💻 Domino principalmente as tecnologias: [Python](https://www.python.org/), [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [SQLite](https://www.sqlite.org/), [Redis](https://redis.io/), [Docker](https://www.docker.com/), [AWS](https://aws.amazon.com/) ([ECS](https://aws.amazon.com/pt/ecs/), [RDS](https://aws.amazon.com/pt/rds/), [Lambdas](https://aws.amazon.com/pt/lambda/)), [Heroku](https://www.heroku.com/).
+- 📈 [PeakDetection](https://github.com/leandcesar/PeakDetection), an Arduino library for real time peak detection in sensor data with z-score.
+- 🆔 [marshmallow-br](https://github.com/leandcesar/marshmallow-br), an extension to [Marshmallow](https://marshmallow.readthedocs.io/en/stable/) fields and validators for Brazilian documents.
+- 📅 [gcsa-slots](https://github.com/leandcesar/google-calendar-simple-api-slots), an extension to [Google Calendar Simple API](https://google-calendar-simple-api.readthedocs.io/en/latest/) library for slots (dates and times available for scheduling).
+- 🏆 [theawards](https://github.com/leandcesar/theawards), unofficial Academy Awards (Oscar) REST API and GraphQL API.
+- 💬 [wa_me](https://github.com/leandcesar/wa_me), an API wrapper for WhatsApp Business Cloud.
 
-🐍 Mais detalhadamente, sobre Python: [Flask](https://flask.palletsprojects.com/), [FastAPI](https://fastapi.tiangolo.com/), [SQLAlchemy](https://www.sqlalchemy.org/), [PonyORM](https://ponyorm.org/), [Tortoise ORM](https://tortoise-orm.readthedocs.io/), [Celery](https://docs.celeryq.dev/) e [Pytest](https://docs.pytest.org/).
-
-#
+-----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leandcesar" target="_blank">
