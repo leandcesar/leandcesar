@@ -4,7 +4,7 @@ Tech lead and Python backend developer at [Cloudia](https://app.cloudiabot.com/)
 
 Projects:
 
-- 📈 [PeakDetection](httpsControl and Automation Engineerleandcesar/PeakDetection), an Arduino library for real time peak detection in sensor data with z-score.
+- 📈 [PeakDetection](https://github.com/leandcesar/PeakDetection), an Arduino library for real time peak detection in sensor data with z-score.
 - 🆔 [marshmallow-br](https://github.com/leandcesar/marshmallow-br), an extension to [Marshmallow](https://marshmallow.readthedocs.io/en/stable/) fields and validators for Brazilian documents.
 - 📅 [gcsa-slots](https://github.com/leandcesar/google-calendar-simple-api-slots), an extension to [Google Calendar Simple API](https://google-calendar-simple-api.readthedocs.io/en/latest/) library for slots (dates and times available for scheduling).
 - 🏆 [theawards](https://github.com/leandcesar/theawards), unofficial Academy Awards (Oscar) REST API and GraphQL API.
