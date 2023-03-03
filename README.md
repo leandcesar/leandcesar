@@ -1,6 +1,6 @@
 # Oi 👋, meu nome é Leandro César
 
-Engenheiro de controle e automação ([UNIFEI](https://unifei.edu.br/)). TechDesenvolvedor backend Python na [Cloudia](https://app.cloudiabot.com/).
+Engenheiro de controle e automação ([UNIFEI](https://unifei.edu.br/)). Tech lead e desenvolvedor backend Python na [Cloudia](https://app.cloudiabot.com/).
 
 Projects:
 
