@@ -4,11 +4,12 @@ Tech lead and Python backend developer at [Cloudia](https://app.cloudiabot.com/)
 
 Projects:
 
-- 📈 [PeakDetection](https://github.com/leandcesar/PeakDetection), an Arduino library for real time peak detection in sensor data with z-score.
-- 🆔 [marshmallow-br](https://github.com/leandcesar/marshmallow-br), an extension to [Marshmallow](https://marshmallow.readthedocs.io/en/stable/) fields and validators for Brazilian documents.
+- 🎬 [themoviedb](https://github.com/leandcesar/themoviedb), an API wrapper for [The Movie Database (TMDb) API v3](https://developers.themoviedb.org/3).
 - 📅 [gcsa-slots](https://github.com/leandcesar/google-calendar-simple-api-slots), an extension to [Google Calendar Simple API](https://google-calendar-simple-api.readthedocs.io/en/latest/) library for slots (dates and times available for scheduling).
-- 🏆 [theawards](https://github.com/leandcesar/theawards), unofficial Academy Awards (Oscar) REST API and GraphQL API.
-- 💬 [wa_me](https://github.com/leandcesar/wa_me), an API wrapper for WhatsApp Business Cloud.
+- 🆔 [marshmallow-br](https://github.com/leandcesar/marshmallow-br), an extension to [Marshmallow](https://marshmallow.readthedocs.io/en/stable/) fields and validators for Brazilian documents.
+- 🏆 [theawards](https://github.com/leandcesar/theawards), unofficial [Academy Awards (Oscar)](https://www.oscars.org/) REST API and GraphQL API.
+- 💬 [wa_me](https://github.com/leandcesar/wa_me), an API wrapper for [WhatsApp Business Cloud](https://developers.facebook.com/docs/whatsapp/cloud-api/).
+- 📈 [PeakDetection](https://github.com/leandcesar/PeakDetection), an [Arduino](https://www.arduino.cc/) library for real time peak detection in sensor data with z-score.
 
 -----
 
@@ -28,7 +29,7 @@ Projects:
   <a href="https://dev.to/leandcesar" target="_blank">
     <img width="32px" alt="dev.to" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dev_to.svg"/>
   </a>
-  <a href="https://medium.com/@leandcesar" target="_blank">
+<!--   <a href="https://medium.com/@leandcesar" target="_blank">
     <img width="32px" alt="Medium" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg"/>
-  </a>
+  </a> -->
 </p>
