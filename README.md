@@ -4,6 +4,7 @@ Tech lead and Python backend developer at [Cloudia](https://app.cloudiabot.com/)
 
 Projects:
 
+- 🔀 [n8n-nodes-zapi](https://github.com/leandcesar/n8n-nodes-zapi), an [n8n](https://n8n.io/) community node. It lets you use [Z-API](https://www.z-api.io/) in your n8n workflows.
 - 🎬 [themoviedb](https://github.com/leandcesar/themoviedb), an API wrapper for [The Movie Database (TMDb) API v3](https://developers.themoviedb.org/3).
 - 📅 [gcsa-slots](https://github.com/leandcesar/google-calendar-simple-api-slots), an extension to [Google Calendar Simple API](https://google-calendar-simple-api.readthedocs.io/en/latest/) library for slots (dates and times available for scheduling).
 - 🆔 [marshmallow-br](https://github.com/leandcesar/marshmallow-br), an extension to [Marshmallow](https://marshmallow.readthedocs.io/en/stable/) fields and validators for Brazilian documents.
