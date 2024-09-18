@@ -5,7 +5,7 @@ Tech lead and Python backend developer at [Cloudia](https://app.cloudiabot.com/)
 Projects:
 
 - 📈 [PeakDetection](https://github.com/leandcesar/PeakDetection), an [Arduino](https://www.arduino.cc/) library for real time peak detection in sensor data with z-score.
-- 🐦 [di𝕏cord]([https://github.com/leandcesar/n8n-nodes-zapi](https://github.com/leandcesar/diXcord)), a simple [Discord](https://discord.com/) bot that simulates [𝕏](https://x.com/) by creating fake tweets.
+- 🐦 [di𝕏cord](https://github.com/leandcesar/diXcord), a simple [Discord](https://discord.com/) bot that simulates [𝕏](https://x.com/) by creating fake tweets.
 - 🔀 [n8n-nodes-zapi](https://github.com/leandcesar/n8n-nodes-zapi), an [n8n](https://n8n.io/) community node. It lets you use [Z-API](https://www.z-api.io/) in your n8n workflows.
 - 🎬 [themoviedb](https://github.com/leandcesar/themoviedb), an API wrapper for [The Movie Database (TMDb) API v3](https://developers.themoviedb.org/3).
 - 💬 [wa_me](https://github.com/leandcesar/wa_me), an API wrapper for [WhatsApp Business Cloud](https://developers.facebook.com/docs/whatsapp/cloud-api/).
