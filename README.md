@@ -1,6 +1,6 @@
 # Hi 👋, I'm Leandro César
 
-Tech lead and Python backend developer at [Cloudia](https://app.cloudiabot.com/). Control and Automation Engineer ([UNIFEI](https://unifei.edu.br)). 
+Tech lead and Python backend developer at [Cloudia](https://cloudia.com.br/). Control and Automation Engineer ([UNIFEI](https://unifei.edu.br)). 
 
 Projects:
 
